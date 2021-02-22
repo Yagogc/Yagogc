@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Yago 👾
+## Senior Front End Developer 🎨
+
+```javascript
+const yago = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, RTK, Zustand, React-Query, Storybook, Styled-Components, Jest, RTL, Cypress],
+  learning: [Github Actions, XState, ...more]
+}
+```
 
 <!--
 **Yagogc/Yagogc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
